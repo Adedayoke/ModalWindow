@@ -9,7 +9,7 @@
     flex-direction: column;
     align-items: center;
     height: 100vh; 
-    background-color: green;
+    background-image: linear-gradient(to bottom left, green, white);
 }
 .modals{
     margin-top: 20px;
